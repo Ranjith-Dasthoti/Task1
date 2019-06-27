@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "tasks ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Ranjith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "is-empty": "^1.2.0",
+    "mongoose": "^5.6.1",
+    "nodemon": "^1.19.1",
+    "uuid": "^3.3.2",
+    "validator": "^11.0.0"
+  }
+}
